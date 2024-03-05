@@ -60,3 +60,9 @@ h3{
     font-size: 40px;
     font-weight: 700;
 }
+
+.developer{
+    display: flex;
+    justify-content: center;
+    color: rgb(124, 123, 123);
+}
